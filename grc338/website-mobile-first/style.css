@@ -1,0 +1,81 @@
+/* CSS DOCUMENT */
+
+
+
+h1 { font-size: 4em;  color: #3E5F68; 
+    text-decoration: none; font-family: sans-serif; text-transform: uppercase; 
+    
+}
+
+h2 { font-family: sans-serif; 
+     color: #3E5F68; padding-top: .5em; font-size: 3em; text-transform: capitalize; 
+    letter-spacing: 0.05in; text-align: center; 
+    
+}
+
+h3 { 
+font-size: 1.5em; 
+font-family: sans-serif; 
+     color: #3E5F68;
+}
+
+
+
+
+img { width: 100%; 
+    align-content: center;
+    margin-left: 
+}
+
+p1 { font-family:benton-modern-display,serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1.6em; 
+padding-top: 4em; } 
+    
+p2 {
+font-family: benton-modern-display,serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1.6em;
+text-align: center; }
+
+li { font-family: benton-modern-display,serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1em;
+    
+
+}
+
+
+nav { 
+float: left; }
+
+nav ul { padding: 4; margin-left: 4em; 
+    margin-right: 5em; 
+}
+
+nav ul li { list-style: none; 
+    display: inline; 
+    margin-right: 1.2em; 
+    font-family: sans-serif; 
+    text-transform: uppercase; 
+    letter-spacing: 0.2 em;
+   
+
+}
+
+nav ul li a { text-decoration: none; 
+    color: #3E5F68; 
+    
+
+}
+
+
+
+
+
+
+
+
