@@ -1,0 +1,84 @@
+/* CSS DOCUMENT */
+
+
+
+h1 { font-size: 4em;  color: #3E5F68; 
+    text-decoration: none; font-family: sans-serif; text-transform: uppercase; text-align: center; 
+    
+}
+
+h2 { font-family: sans-serif; 
+     color: #3E5F68; padding-top: .5em; font-size: 3em; text-transform: capitalize; align-content: center; text-align: center;      
+}
+
+h3 { 
+font-size: 1.5em; 
+font-family: sans-serif; 
+     color: #3E5F68;
+}
+
+
+
+
+img { width: 90%; 
+    align-content: center;
+    margin-left: 1em;  
+    align-items: center;
+    text-align: center; 
+}
+
+p { font-family:benton-modern-display,serif;
+font-style: normal;
+font-size: 1.5em; 
+padding-top: 1em; text-align: center;   } 
+    
+
+
+li { font-family: benton-modern-display,serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1.8em;
+}
+
+
+nav { 
+float: left; align-content: center; text-align: center}
+
+nav ul { padding: 1em; 
+}
+
+nav ul li { list-style: none; 
+    display: inline; 
+    margin-right: 1.2em; 
+    font-family: sans-serif; 
+    text-transform: uppercase; 
+    letter-spacing: 0.2 em;
+   
+
+}
+
+nav ul li a { text-decoration: none; 
+    color: #3E5F68; 
+    
+}
+
+
+
+div.blurb {max-width: 25em;}
+
+
+
+@media only screen and (min-width: 25em) { 
+div.blurb { width:90%; 
+    float: left; align-content: center;
+    margin-right: 5em;  text-align: center; object-position: center; align-content: center;   } 
+
+
+@media only screen and (min-width: 36em)
+{ div.blurb { width:100%; font-size: 1.3em; align-content: center; margin: auto; 
+    align-content: center; text-align: center; margin-left: 4em;  }}
+    
+    div.container {max-width: 50em; 
+margin: auto; text-align: center; align-content: center;   }
+
+
