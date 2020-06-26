@@ -9,30 +9,32 @@ body {
 	}
 	
 div.container {
-        display: _____ ;
-        flex-wrap: _____ ;
-        max-width: 60em;
+        display:flex;
+        flex-wrap: wrap;
+        max-width: 50em;
         margin: 1em;
         padding 1em;
 }
 
-header {
-    flex: _____ ;
+header { flex: 1 0 100%;  
 }
 
 article {
-    flex: _____ ;
+    flex: 2 0 30 ;
     margin-right: 1em;
+     
 }
 
 aside {
-    flex: _____ ;
+    flex: 0 1 15;
+   
 }
 
 footer {
-    flex: _____ ;
+    flex: 1 0 100%;
     border-top: solid 1px #aaa;
     margin-top: 2em;
+    
 }
 
 a {
