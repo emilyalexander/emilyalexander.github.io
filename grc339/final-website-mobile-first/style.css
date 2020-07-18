@@ -45,19 +45,24 @@ h2{font-family: sofia-pro,sans-serif;
 font-weight: 250;
 font-style: normal;}
 
-h3 {font-family: sofia-pro,sans-serif;
-font-weight: 250;
-font-style: normal;}
+h3 {font-family: maecenas,serif;
+font-weight: 500;
+    font-style: normal;
+color: rgb(0, 0, 0); 
+text-decoration: none;
+font-size: 1.6em; } 
 
-p {font-family: ambroise-std,serif;
-font-weight: 300;
-font-style: normal;
+p {font-family: maecenas,serif;
+font-weight: 400;
+font-style: normal;  color: rgb(0, 0, 0); ;  
     
 }
+    
 
-figcaption { font-family: ambroise-std,serif;
+
+figcaption { font-family: maecenas,serif;
 font-weight: 200;
-font-style: normal; 
+font-style: normal;
     font-size-adjust: auto; 
 }
 
